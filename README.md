@@ -3,8 +3,8 @@ An Adobe Illustrator project that tells the modern history of object recognition
 
 Main Files:
   - **HistoryOfObjectRecognition.ai:**                The main file, containing the whole project
-  - **HistoryOfObjectRecognition - 500ppi.png**:      PNG output of version 1.1
-  - **HistoryOfObjectRecognition ver 1.1 final.pdf**: PDF output of version 1.1
+  - **HistoryOfObjectRecognition.png**:               PNG output of the last version
+  - **HistoryOfObjectRecognition.pdf**:               PDF output of the last version
   - **References.xlsx**:                              All References and Links
   
 Folders:
