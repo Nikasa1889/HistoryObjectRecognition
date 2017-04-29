@@ -1,5 +1,7 @@
 # The Modern History of Object Recognition
-An Adobe Illustrator project that tells the modern history of object recognition in the infographics format. Every illustrations are redrawn to make them more consistent and understandable. Note that although I've built the 3D model for AlexNet and many materials are included in this project, I did not use it in the final infographics.
+Object Recognition has recently become one of the most exciting fields in computer vision and AI. The ability of immediately recognizing all the objects in a scene seems to be no longer a secret of evolution. With the development of Convolutional Neural Network architectures, backed by big training data and advanced computing technology, a computer now can surpass human performance in object recognition task under some specific settings, such as face recognition. I fell like whenever such an amazing thing happens; someone must tell the story of it. That is why this infographic was born. Its mission is to tell the modern history of object recognition in the most concise and engaging way. 
+
+This infographic is made by Adobe Illustrator. Every illustrations has been redrawn to make them more consistent and understandable. Note that although I've built the 3D model for AlexNet and many materials are included in this project, I did not use it in the final infographics.
 
 Main Files:
   - **HistoryOfObjectRecognition.ai:**                The main file, containing the whole project
