@@ -5,15 +5,15 @@ This infographic is made by Adobe Illustrator. Every illustrations has been redr
 
 Main Files:
   - **HistoryOfObjectRecognition.ai:**                The main file, containing the whole project
-  - **HistoryOfObjectRecognition.png**:               PNG output of the last version
-  - **HistoryOfObjectRecognition.pdf**:               PDF output of the last version
+  - **[HistoryOfObjectRecognition.png](HistoryOfObjectRecognition.png)**:               PNG output of the last version
+  - **[HistoryOfObjectRecognition.pdf](HistoryOfObjectRecognition.pdf)**:               PDF output of the last version
   - **References.xlsx**:                              All References and Links
   
 Folders:
-  - **AlexNet3DModel**: a 3D sketch and some rendered images of a AlexNet 3D model
-  - **Images**:         images used in the illustrator file
-  - **Materials**:      materials used in AlexNet3DModel
-  - **Outputs**:        collection of pdf outputs that I produced during the development of the infographics
-  - **ReceptiveField**: a side project that I have done before this project to help me understand and calculate the ReceptiveField
-  - **References**:     references that I follow to build up the infographics
-  - **Textures**:       textures used in AlexNet3DModel
+  - **[AlexNet3DModel](AlexNet3DModel)**: a 3D sketch and some rendered images of a AlexNet 3D model
+  - **[Images](Images)**:         images used in the illustrator file
+  - **[Materials](Materials)**:      materials used in AlexNet3DModel
+  - **[Outputs](Outputs)**:        collection of pdf outputs that I produced during the development of the infographics
+  - **[ReceptiveField](Outputs)**: a side project that I have done before this project to help me understand and calculate the ReceptiveField
+  - **[References](References)**:     references that I follow to build up the infographics
+  - **[Textures](Textures)**:       textures used in AlexNet3DModel
